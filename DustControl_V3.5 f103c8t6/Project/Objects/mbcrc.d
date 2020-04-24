@@ -1,0 +1,15 @@
+.\objects\mbcrc.o: ..\Libraries\Third_Party\freemodbus-v1.5.0\modbus\rtu\mbcrc.c
+.\objects\mbcrc.o: ..\Libraries\Third_Party\freemodbus-v1.5.0\port\port.h
+.\objects\mbcrc.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\objects\mbcrc.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\objects\mbcrc.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mbcrc.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\objects\mbcrc.o: ..\User\stm32fxxx\stm32f10x_conf.h
+.\objects\mbcrc.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+.\objects\mbcrc.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\objects\mbcrc.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\objects\mbcrc.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h
+.\objects\mbcrc.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\mbcrc.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\objects\mbcrc.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\objects\mbcrc.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h

@@ -1,0 +1,21 @@
+68 PA9          USART1_TX    4G
+69 PA10         USART1_RX   4G
+
+
+relay1    PB15
+
+relay2   PB14
+
+relay3   PB13
+
+
+D9      NET OK   PA11
+D10    LINK       PA8
+
+新增TSP系数调整
+尝试将清灰气泵工作时间调整为每小时工作一次
+
+
+反吹周期可设   1~24小时  默认1小时
+反吹时间可设   1-300S   默认60秒
+
